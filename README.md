@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Introduction
-Need a advice? No problem, i solve this. I use react/next.js, javascript, scss and axios requisition.
+Need a advice? No problem, i solve this. I use next.js, scss and axios.
 
 ## Getting Started
 
